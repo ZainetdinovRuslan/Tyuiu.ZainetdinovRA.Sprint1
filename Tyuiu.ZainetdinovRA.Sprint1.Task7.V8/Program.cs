@@ -8,7 +8,7 @@ namespace Tyuiu.ZainetdinovRA.Sprint1.Task7.V8
         static void Main(string[] args)
 
         {
-            DataService ds = new DataService(); 
+            DataService ds = new DataService();
             Console.OutputEncoding = Encoding.UTF8;
 
             Console.Title = "Спринт #1 | Выполнил: Zainetdinov R. A. | ИИПБ-24-2";
@@ -28,8 +28,8 @@ namespace Tyuiu.ZainetdinovRA.Sprint1.Task7.V8
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                        *");
             Console.WriteLine("***************************************************************************");
 
+            Console.WriteLine("Данна формула z = xlnx + y/cosx - x/3");
             double x, y;
-
             Console.Write("Введите значение x: ");
             x = Convert.ToDouble(Console.ReadLine());
             Console.Write("Введите значение y: ");
@@ -46,3 +46,4 @@ namespace Tyuiu.ZainetdinovRA.Sprint1.Task7.V8
         }
     }
 }
+

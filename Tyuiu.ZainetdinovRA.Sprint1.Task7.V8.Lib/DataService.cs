@@ -6,7 +6,7 @@ namespace Tyuiu.ZainetdinovRA.Sprint1.Task7.V8.Lib
     {
         public double Calculate(double x, double y)
         {
-            double z = x * Math.Log(x) + y / Math.Cos(x) - x / 3;
+            double z = x * Math.Log(x) + y / (Math.Cos(x) - x / 3);
             return Math.Round(z, 3);
         }
     }
