@@ -59,14 +59,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.ZainetdinovRA.Sprint1
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.ZainetdinovRA.Sprint1.Task6.V2", "Tyuiu.ZainetdinovRA.Sprint1.Task6.V2\Tyuiu.ZainetdinovRA.Sprint1.Task6.V2.csproj", "{49DC3D60-95BC-4F9C-B5E0-269D536E9506}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task7", "Task7", "{A75DD4C8-55D5-4075-9C11-9AB990917BF0}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.ZainetdinovRA.Sprint1.Task7.V8", "Tyuiu.ZainetdinovRA.Sprint1.Task7\Tyuiu.ZainetdinovRA.Sprint1.Task7.V8.csproj", "{C216250E-7A2D-462A-B64B-C395E8362B91}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.ZainetdinovRA.Sprint1.Task7.V8.Lib", "Tyuiu.ZainetdinovRA.Sprint1.Task7.Lib\Tyuiu.ZainetdinovRA.Sprint1.Task7.V8.Lib.csproj", "{6278FBD8-69AE-4D6A-ACF4-72630CDF19B3}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.ZainetdinovRA.Sprint1.Task7.V8.Test", "Tyuiu.ZainetdinovRA.Sprint1.Task7.Test\Tyuiu.ZainetdinovRA.Sprint1.Task7.V8.Test.csproj", "{88C83E23-0FE4-4C33-A806-3A3AC5CA74E0}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
