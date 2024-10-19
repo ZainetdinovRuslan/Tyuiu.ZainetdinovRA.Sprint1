@@ -63,10 +63,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task7", "Task7", "{D2FE6511
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.ZainetdinovRA.Sprint1.Task7.V8", "Tyuiu.ZainetdinovRA.Sprint1.Task7.V8\Tyuiu.ZainetdinovRA.Sprint1.Task7.V8.csproj", "{868E1F65-F78D-4C41-8839-59FC500ED0C5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.ZainetdinovRA.Sprint1.Task7.V8.Lib", "Tuyiu.ZainetdinovRA.Sprint1.Task7.V8.Lib\Tyuiu.ZainetdinovRA.Sprint1.Task7.V8.Lib.csproj", "{D3815E3A-A9E9-4819-9F8A-DAC449211963}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.ZainetdinovRA.Sprint1.Task7.V8.Test", "Tuyiu.ZainetdinovRA.Sprint1.Task7.V8.Test\Tyuiu.ZainetdinovRA.Sprint1.Task7.V8.Test.csproj", "{70270790-4FB0-47B6-B325-5A1A49F6107A}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
