@@ -362,3 +362,4 @@ MigrationBackup/
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
 /Tyuiu.ZainetdinovRA.Sprint1.Task7.V8/Program.cs
+/Tyuiu.ZainetdinovRA.Sprint1.Task7.V8.Test/Tyuiu.ZainetdinovRA.Sprint1.Task7.V8.Test.csproj
