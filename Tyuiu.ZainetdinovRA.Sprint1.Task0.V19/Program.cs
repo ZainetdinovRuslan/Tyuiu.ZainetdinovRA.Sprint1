@@ -13,9 +13,9 @@ namespace Tyuiu.ZainetdinovRA.Sprint1.Task0.V19
         {
             DataService ds = new DataService();
             Console.OutputEncoding = Encoding.UTF8;
-            Console.Title = "Спринт #0 | Выполнил: Zainetdinov R. A. | ИИПБ-24-2";
+            Console.Title = "Спринт #1 | Выполнил: Zainetdinov R. A. | ИИПБ-24-2";
             Console.WriteLine("***********************************************************************");
-            Console.WriteLine("* Спринт #0                                                           *");
+            Console.WriteLine("* Спринт #1                                                           *");
             Console.WriteLine("* Тема: Базовые навыки работы в C#                                    *");
             Console.WriteLine("* Задание #0                                                          *");
             Console.WriteLine("* Вариант #19                                                         *");
